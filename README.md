@@ -24,11 +24,11 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
-
+```
 */ Developed by: LOKESH KRISHNAA M
 <br>
 Register Number: 212220230030 /*
-
+```
 
 ``` python
 
